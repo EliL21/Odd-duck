@@ -1,20 +1,30 @@
+#imgContainer{
+width: 90;
+height: 300px;
+margin: 0;
+background-color: coral;
+display: flex;
+}
+
 body{
   background-color: rgb(97, 96, 96);
   padding: 5px;
-}
+} */
 
-section{
+/* section{
   border: 3px;
   width: 3px;
   margin: 5px;
   padding: 5px;
-}
+} */
+
+
 /* STACK OVERFLOW */
-.resize{
+/* .resize{
   width: 1/2px;
   height: auto;
 }
 #img{
   border: 5px;
 
-}
+/*  */ 
